@@ -334,7 +334,10 @@ Ahora configuraremos un Metric Filter, el cuál analizará continuamente todos l
 
     | Configuración         | Valor  |
     | --------------------- | ------ |
-    | Filter pattern        |  { ($.eventName = PutObject) || ($.eventName = DeleteObject) }    |
+    | Filter pattern        |  Verificar ⬇️   |
+    ```yml
+    { ($.eventName = PutObject) || ($.eventName = DeleteObject) }
+    ```
 
     La opción:
 
