@@ -33,7 +33,7 @@ Limitaciones encontradas:
 
 ### 🔹 Versión 2.0 — Arquitectura Event-Driven
 
-![alt text](assets/ArquitecturaProyecto-ServiciosAWS-V2.png)
+![alt text](assets/ArquitecturaProyecto-ServiciosAWS-v2.png)
 
 
 
