@@ -663,7 +663,7 @@ Esto se debe a que CloudWatch Alarm trabaja principalmente evaluando métricas y
 
 ### 🔥 Evolución futura del Proyecto
 
-Como siguiente evolución, este proyecto servirá como base para implementar una arquitectura mucho más avanzada y orientada a eventos (*Event-Driven Architecture*), incorporando servicios como:
+Como siguiente evolución, este proyecto servirá como base para implementar una arquitectura mucho más avanzada y orientada a eventos (*Event-Driven Architecture*), incorporando:
 
 * ⚡ Amazon EventBridge
 * 🧠 AWS Lambda
